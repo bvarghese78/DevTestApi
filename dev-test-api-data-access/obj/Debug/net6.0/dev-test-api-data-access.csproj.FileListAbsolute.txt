@@ -1,0 +1,15 @@
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\bin\Debug\net6.0\dev-test-api-data-access.deps.json
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\bin\Debug\net6.0\dev-test-api-data-access.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\bin\Debug\net6.0\dev-test-api-data-access.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.csproj.AssemblyReference.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.AssemblyInfoInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.AssemblyInfo.cs
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.csproj.CoreCompileInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\refint\dev-test-api-data-access.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\ref\dev-test-api-data-access.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\bin\Debug\net6.0\dev-test-api-models.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\bin\Debug\net6.0\dev-test-api-models.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-data-access\obj\Debug\net6.0\dev-test-api-data-access.csproj.CopyComplete

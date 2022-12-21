@@ -1,0 +1,12 @@
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\bin\Debug\net6.0\dev-test-api-models.deps.json
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\bin\Debug\net6.0\dev-test-api-models.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\bin\Debug\net6.0\dev-test-api-models.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.csproj.AssemblyReference.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.AssemblyInfoInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.AssemblyInfo.cs
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.csproj.CoreCompileInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\refint\dev-test-api-models.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\dev-test-api-models.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-models\obj\Debug\net6.0\ref\dev-test-api-models.dll

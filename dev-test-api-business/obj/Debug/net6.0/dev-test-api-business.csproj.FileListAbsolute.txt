@@ -1,0 +1,17 @@
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-business.deps.json
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-business.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-business.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-data-access.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-models.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-data-access.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\bin\Debug\net6.0\dev-test-api-models.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.csproj.AssemblyReference.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.AssemblyInfoInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.AssemblyInfo.cs
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.csproj.CoreCompileInputs.cache
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.csproj.CopyComplete
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\refint\dev-test-api-business.dll
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\dev-test-api-business.pdb
+C:\Users\upset\Documents\DevExperiments\DevTestApi\dev-test-api-business\obj\Debug\net6.0\ref\dev-test-api-business.dll
